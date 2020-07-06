@@ -1,0 +1,48 @@
+body {
+    background-color: crimson;
+    
+}
+.page{
+    width: 80%;
+    max-width:  960px;
+    text-align: center;
+    margin: 50px auto;
+    border-radius: 5px;
+}
+body{
+    
+    
+    margin: 0px;
+    padding: 0px;
+    text-transform: uppercase;
+}
+header{
+    font-family: 'Bungee Shade', cursive;
+    font-size: 24px;
+    line-height: 48px;
+    color: #222;
+}
+#timeevent{
+    font-family: 'Bungee Shade', cursive;
+    display: block;
+    font-size: 80px;
+
+}
+img #grumpycatimage{
+    height: 50px;
+    width: auto;
+}
+#wakeup,#lunchtime,#bedtime{
+    font-family: 'Amiko', sans-serif;
+
+}
+.alarm{
+    padding-bottom:10px; 
+}
+button,.alarm select{
+    background-color: black;
+    color: crimson;
+}
+button{
+    display:none;
+}
