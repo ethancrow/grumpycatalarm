@@ -1,2 +1,4 @@
 # grumpycatalarm
-alarm clock for alarms
+ clock for alarms
+Javascript is in progresse
+the alarm will be implemented shortley
